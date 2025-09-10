@@ -7,6 +7,3 @@
   height="300"
 />
 </a>
-
-
-Blog : https://rlg1133.tistory.com  
